@@ -1,0 +1,10 @@
+# Ignore dataset folders
+dataset/
+data/
+images/
+*.png
+*.jpg
+
+wandb/
+# Ignore model checkpoints
+__pycache__/

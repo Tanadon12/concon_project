@@ -1,0 +1,27 @@
+{
+  "0": [
+    {
+    "shape": "",
+    "size": "",
+    "material": "",
+    "color": "blue"
+    }
+  ],
+  "1": [
+        {
+    "shape": "",
+    "size": "",
+    "material": "metal",
+    "color": ""
+    }
+  ],
+  "2": [
+        {
+    "shape": "",
+    "size": "large",
+    "material": "",
+    "color": ""
+    }
+  ]
+}
+
